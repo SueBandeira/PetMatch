@@ -40,6 +40,7 @@ src/main/java/com/seuprojeto/adocaopets
 ├── model           # Classes de entidade e enums
 ├── repository      # Interfaces de repositórios (JPA)
 ├── service         # Lógica de negócios
+├── enums           # enums utilizados no projeto
 └── dto             # Data Transfer Objects (opcional)
 ```
 
